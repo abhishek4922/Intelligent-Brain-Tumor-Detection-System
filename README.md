@@ -19,6 +19,6 @@ To run the code that utilizes this dataset, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/abhishek4922/Intelligent-Brain-Tumor-Detection.git
+   git clone https://github.com/abhishek4922/Intelligent-Brain-Tumor-Detection-System.git
 
    
